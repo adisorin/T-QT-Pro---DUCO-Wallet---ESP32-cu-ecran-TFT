@@ -1,5 +1,6 @@
 # T-QT-Pro---DUCO-Wallet---ESP32-cu-ecran-TFT
-<img width="1080" height="2340" alt="image" src="https://github.com/user-attachments/assets/aebdc3be-ea29-4385-b781-b059334bf871" />
+<img width="399" height="525" alt="image" src="https://github.com/user-attachments/assets/28846c2e-a85f-4048-9dec-753ecdbbddbf" />
+
 
 ## Prezentare publică – DUCO Wallet pe ESP32 cu ecran TFT
 
